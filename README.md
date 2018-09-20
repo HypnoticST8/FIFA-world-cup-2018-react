@@ -1,3 +1,3 @@
 # FIFA World Cup 2018
 
-A SPA made using ReactJS that displays the results of group and knockout phase matches.
+ReactJS app that displays FIFA World Cup 2018 group tables, group results and knockout phase matches.
